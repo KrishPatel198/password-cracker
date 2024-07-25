@@ -17,5 +17,4 @@ This project is a simple web application that demonstrates how to crack password
 - CSS
 - JavaScript
 
-## Project Structure
 
